@@ -1,9 +1,8 @@
 
----
 
 # WireApps Front-End Engineer Technical Assessment
 
-This project is a React application bootstrapped with [Create React App](https://github.com/facebook/create-react-app), integrated with Redux for state management, Axios for HTTP requests, and bot scraping functionality. It also utilizes the [Fake Store API](https://fakestoreapi.com/) for retrieving fake e-commerce data.
+This project is a React application bootstrapped with [Create React App](https://github.com/facebook/create-react-app), integrated with Redux for state management, Axios for HTTP requests, React Bootstrap for UI components, and bot scraping functionality. It also utilizes the [Fake Store API](https://fakestoreapi.com/) for retrieving fake e-commerce data.
 
 ## Technologies Used
 
@@ -58,6 +57,10 @@ Follow these steps to start the project:
     ```
 
    This command builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app is now ready to be deployed!
+
+## Deployed URL
+
+The project is deployed and accessible at: [https://wireapps-technical-assessment-react.vercel.app/](https://wireapps-technical-assessment-react.vercel.app/)
 
 ## Learn More
 
