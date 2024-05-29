@@ -76,6 +76,5 @@ The project is deployed and accessible at: [https://wireapps-technical-assessmen
 - [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
 - [Troubleshooting](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Feel free to modify and expand upon this README as needed for your project!
 
 ---
